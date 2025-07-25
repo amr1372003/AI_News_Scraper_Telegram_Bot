@@ -4,7 +4,7 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = '8491936797:AAF0buZdK0Lr27ukJgE5214D9nq_UmlgZzw'
+BOT_TOKEN = '..................................YOUR TOKEN..................................'
 KEYWORDS_FILE = "users_keywords.json"
 
 # ---------- Helper Functions ----------
