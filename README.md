@@ -110,5 +110,3 @@ python-telegram-bot==20.0
 
 * **Name:** Amr Hassan
 * **GitHub:** [amr1372003](https://github.com/amr1372003)
-
----
